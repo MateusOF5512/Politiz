@@ -6,16 +6,8 @@ path_vac = "vacina_floripa.csv"
 
 # --------------------------- INTRODUÇÂO --------------------------------------------------------------
 html_title="""
-<head>
-<title>PControlDB</title>
-<meta charset="utf-8">
-<meta name="keywords" content="project control, dashboard, management">
-<meta name="description" content="project control dashboard">
-<meta name="author" content="Mateus Ortiz Ferreira">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<h1 style="font-size:300%; color:#4169e1; font-family:sans-serif">Exploração de Dados Abertos<br>
- <h2 style="color:#4169e1;font-family:sans-serif">Campanha de Vacinação Contra COVID-19 - Florianópolis-SC/BR</h3> <br>
+<h1 style="font-size: 50px; color:#4169e1; font-family:sans-serif">Exploração de Dados Abertos<br>
+ <h2 style="font-size: 34px;color:#4169e1;font-family:sans-serif">Campanha de Vacinação Contra COVID-19 - Florianópolis-SC/BR</h3> <br>
  <hr style= "display: block;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -41,9 +33,9 @@ html_rodape="""
 
 html_card_header_0A_1_11="""
 <div class="card">
-  <div class="card-body" style="border-radius: 10px 10px 0px 0px; background: #4169E1; padding-top: 5px; width: 1200px; height: 40px;">
-    <h5 class="card-title" style="background-color:#4169E1; color:#F5F5F5; font-family:sans-serif; text-align: center; padding: 10px 10px;"
-    >Descrição dos Ddaos</h5>
+  <div class="card-body" style="border-radius: 10px 10px 0px 0px; background: #4169E1; padding-top: 5px; width: 1200px; height: 50px;">
+    <h5 class="card-title" style="font-size: 24px; background-color:#4169E1; color:#F5F5F5; font-family:sans-serif; text-align: center; padding: 5px 5px;"
+    >Descrição dos Dados</h5>
   </div>
 </div>
 """
